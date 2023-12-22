@@ -12,6 +12,13 @@ I quickly stopped working on this project unfortunately :(
 
 Made in C++ with the GraPic graphics library.
 
+# Starting
+
+Clone this project
+```
+$ git clone https://github.com/axelvag/Game_Monster_Fusion
+```
+
 # GrAPiC 
 
 ## Starting
