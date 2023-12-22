@@ -9,6 +9,7 @@ Here is Monster Fusion, the game boils down to choosing 2 monsters to merge them
 ![image](image/Monstre.jpg)
 
 I quickly stopped working on this project unfortunately :(
+
 Made in C++ with the GraPic graphics library.
 
 # GrAPiC 
