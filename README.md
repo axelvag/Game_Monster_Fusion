@@ -1,4 +1,15 @@
+# Game Monster Fusion
+
+# Idea
+
+Inspired by a mobile game of fusion of magic objects in a cauldron to create creatures (whose name I can no longer find), I started to create mine!
+
+Here is Monster Fusion, the game boils down to choosing 2 monsters to merge them and obtain a new one, then optimize it with new fusions to obtain the genes of the others that you prefer.
+
 ![image](image/Monstre.jpg)
+
+I quickly stopped working on this project unfortunately :(
+Made in C++ with the GraPic graphics library.
 
 # GrAPiC 
 
